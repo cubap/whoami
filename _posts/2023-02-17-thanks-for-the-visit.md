@@ -26,3 +26,11 @@ As a member of the Reserach Computing Group, I design and implement tools,
   With a focus on scholarly research needs, I have decades of experience in 
   cultural heritage and digital humanities solutions with expertise in web 
   applications, ambiguous data encoding, and human-driven annotation.
+
+I have several projects that relate to research at SLU:
+
+* [RERUM Service](https://centerfordigitalhumanities.github.io/blog/rerum-alpha/)
+* [TPEN Transcription](https://centerfordigitalhumanities.github.io/blog/t-pen-development-advance-post/)
+
+I contribute to several open source projects and maintain the organization 
+housing RCG projects ([GitHub](https://github.com/CenterForDigitalHumanities)).
