@@ -9,7 +9,7 @@ categories: intro update flier
 
 ## Adventurous
 
-<img src="../assets/cubap.PORTRAIT.jpg" alt="" style="
+<img src="{{site.baseurl}}/assets/cubap.PORTRAIT.jpg" alt="" style="
     border-radius: 50%;
     box-shadow: 0 0 0.32em 0.68em darkblue;
     object-fit: cover;

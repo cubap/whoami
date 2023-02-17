@@ -1,7 +1,7 @@
 title: Patrick Cuba, IT Architect
 email: patrick.m.cuba@slu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  As a member of the Reserach Computing Group, I design and implement tools, 
+  As a member of the Research Computing Group, I design and implement tools, 
   services, and software for use by researchers, students, and the public.
 baseurl: "/whoami" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
