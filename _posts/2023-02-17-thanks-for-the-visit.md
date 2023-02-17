@@ -9,14 +9,7 @@ categories: intro update flier
 
 ## Adventurous
 
-<img src="{{site.baseurl}}/assets/cubap.PORTRAIT.jpg" alt="" style="
-    border-radius: 50%;
-    box-shadow: 0 0 0.32em 0.68em darkblue;
-    object-fit: cover;
-    height: 10em;
-    width: 10em;
-    float:right;
-">
+<img src="{{site.baseurl}}/assets/cubap.PORTRAIT.jpg" alt="face" style="border-radius: 50%;box-shadow: 0 0 0em 0.68em darkblue, -5em -1.2em 0em 2.2em rgba(0,0,0,.3), -17em -4.2em 0em 2.2em rgba(0,0,0,.18), -32em -0.2em 0em 5.2em rgba(0,0,0,.09), -55em 4.8em 0em 10em rgba(0,0,0,.05);object-fit: cover;height: 10em;width: 10em;float:right;">
 
 I am so glad you are here. My name is Patrick Cuba and I have worked for SLU
 since 2002.
